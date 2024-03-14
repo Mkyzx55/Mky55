@@ -1,0 +1,5 @@
+https://github.com/k4itrun/HackerCam.git
+$ cd HackerCam
+$ bash hcam.sh
+$ git clone https://github.com/k4itrun/HackerCam.git && cd HackerCam && termux-setup-storage
+$ bash hcam.sh
